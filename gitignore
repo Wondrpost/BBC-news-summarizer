@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Cache model & data (terunduh otomatis di server)
+.cache/
+nltk_data/
+
+# Berkas sistem
+.DS_Store
+Thumbs.db
